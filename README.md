@@ -1,4 +1,4 @@
-# Human Activity Recognition
+# Human Activity Recognition 🏃 🧗 🚶
 
 #### The objective of the project is to extract Time Series Features for Human Activity Monitoring along with visualizing the plots for different activities and body parts for 15 individuals. (Created in November 2022)
 * **Task 1:**

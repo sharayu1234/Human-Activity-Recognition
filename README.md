@@ -37,6 +37,6 @@ The dataset was obtained from [here](https://www.uni-mannheim.de/dws/research/pr
 
 ## 🤝 Support
 
-Contributions, issues, and feature requests are welcome!
+Contributions, issues, and feature requests are welcome!</br>
 Give a ⭐️ if you like this project!
 

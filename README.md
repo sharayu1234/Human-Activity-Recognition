@@ -1,6 +1,6 @@
 # Human Activity Recognition
 
-#### The objective of project is to extract Time Series Features for human activity monitoring. 
+#### The objective of the project is to extract Time Series Features for Human Activity Monitoring along with visualizing the plots for different activities and body parts for 15 individuals.
 * **Task 1:**
   * Applying HVG(Horizontal Visibility Graph) and NVG(Natural Visibility Graph) to compute average degree, network diameter, and average path length. 
   * Tabulating all the data for different subjects (1-15) and axes for Head and Chest. 

@@ -1,7 +1,8 @@
 # Human Activity Recognition
 
 #### The objective of project is to extract Time Series Features for human activity monitoring. 
-* Task 1: * Applying HVG(Horizontal Visibility Graph) and NVG(Natural Visibility Graph) to compute average degree, network diameter, and average path length. * Tabulating all the data for different subjects and axes for Head and Chest. * Creating scatter plots for climbing up, climbing down, walking and running for head and chest in all directions (x,y,z)
+* Task 1: 
+* * Applying HVG(Horizontal Visibility Graph) and NVG(Natural Visibility Graph) to compute average degree, network diameter, and average path length. * Tabulating all the data for different subjects and axes for Head and Chest. * Creating scatter plots for climbing up, climbing down, walking and running for head and chest in all directions (x,y,z)
 
 ## 🏗️ Built with
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
